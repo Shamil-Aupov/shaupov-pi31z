@@ -210,4 +210,3 @@ class Board {
         return false;
     }
 }
-
